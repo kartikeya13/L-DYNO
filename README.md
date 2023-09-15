@@ -1,4 +1,4 @@
-# L-DYNO: Learning Based Framework to Refine Features using a Consistency Metric from Robot Dynamics.
+# L-DYNO: Framework to Learn Consistent Visual Features Using Robot’s Motion.
 # Training:
 
 
