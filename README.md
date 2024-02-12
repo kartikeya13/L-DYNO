@@ -4,5 +4,5 @@
 # Mask Generation:
 ## run viz_masked.py
 ## To test the generated masks follow this repo.
-https://github.com/kartikeya13/L-DYNO/blob/main/link.mp4
+https://github.com/kartikeya13/L-DYNO/assets/36641341/8516b6ec-70d5-48a1-890b-90f28d2d0bae
 
