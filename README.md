@@ -3,6 +3,7 @@ This is an official implementation of our work published in ICRA'24. The [paper]
 
 ## Datasets:
 KITTI: Download the dataset (grayscale images) from [here](http://www.cvlibs.net/datasets/kitti/eval_odometry.php) and prepare the KITTI folder as specified above
+F1tenth Dataset: [TODO]
 ## Training:
 ```python
 train.py
