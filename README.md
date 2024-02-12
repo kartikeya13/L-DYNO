@@ -1,4 +1,5 @@
 # L-DYNO: Framework to Learn Consistent Visual Features Using Robot’s Motion.
+This is an official implementation of our work published in ICRA'24. The [paper](https://arxiv.org/abs/2310.06249) talks about the 
 # Training:
 ## run train.py 
 # Mask Generation:
