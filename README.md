@@ -1,12 +1,12 @@
 # L-DYNO: Framework to Learn Consistent Visual Features Using Robot’s Motion.
 This is an official implementation of our work published in ICRA'24. The [paper](https://arxiv.org/abs/2310.06249) utilizes the robot's transformations through an external signal (inertial sensing, for example) and gives attention to image space that is most consistent with the external signal.
-# Training:
+## Training:
 ```python
 train.py
 ```
 > We train the pipeline end-to-end on the RTX A100.
 
-# Mask Generation:
+## Mask Generation:
 ```python
 viz_masked.py
 ```
