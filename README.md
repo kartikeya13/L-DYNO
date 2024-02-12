@@ -11,6 +11,8 @@ train.py
 ```
 > We train the pipeline end-to-end on the RTX A100.
 
+[f1tenth_result.pdf](https://github.com/kartikeya13/L-DYNO/files/14244759/f1tenth_result.pdf)
+
 ## Mask Generation:
 ```python
 viz_masked.py
@@ -18,4 +20,6 @@ viz_masked.py
 > To test the generated masks on trajectory estimation and reprojection errors follow this [repo](https://github.com/luigifreda/pyslam).
 
 https://github.com/kartikeya13/L-DYNO/assets/36641341/8516b6ec-70d5-48a1-890b-90f28d2d0bae
+
+
 
