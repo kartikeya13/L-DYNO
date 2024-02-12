@@ -4,8 +4,8 @@ This is an official implementation of our work published in ICRA'24. The [paper]
 ```python
 train.py
 ```
-[!NOTE]
-> Please use 
+> We train the pipeline end-to-end on the RTX A100.
+graphics card
 # Mask Generation:
 ```python
 viz_masked.py
