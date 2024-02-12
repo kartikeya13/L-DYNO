@@ -11,7 +11,7 @@ train.py
 ```
 > We train the pipeline end-to-end on the RTX A100.
 
-[f1tenth_result.pdf](https://github.com/kartikeya13/L-DYNO/files/14244759/f1tenth_result.pdf)
+https://github.com/kartikeya13/L-DYNO/files/14244759/f1tenth_result.pdf
 
 ## Mask Generation:
 ```python
