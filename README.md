@@ -2,7 +2,8 @@
 This is an official implementation of our work published in ICRA'24. The [paper](https://arxiv.org/abs/2310.06249) utilizes the robot's transformations through an external signal (inertial sensing, for example) and gives attention to image space that is most consistent with the external signal.
 
 ## Datasets:
-KITTI: Download the dataset (grayscale images) from [here](http://www.cvlibs.net/datasets/kitti/eval_odometry.php) and prepare the KITTI folder as specified above
+KITTI: Download the dataset (grayscale images) from [here](http://www.cvlibs.net/datasets/kitti/eval_odometry.php) and prepare the KITTI folder as specified.
+
 F1tenth Dataset: [TODO]
 ## Training:
 ```python
